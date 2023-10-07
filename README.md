@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Antoinebr
-- 👀 I’m a Sales Engineer at @HubSpot
+- Full stack JavaScript Developer / Sales
+- 👀 I’m a Sales Engineer / technical specialist at @HubSpot
 - 🌱 I’m always learning more about JavaScript 
 
 <!---
