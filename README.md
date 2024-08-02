@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Antoinebr
 - Full stack JavaScript Developer / Sales
-- 👀 I’m a Sales Engineer / technical specialist at @HubSpot
+- 👀 I’m a Sales Engineer at @Fastly
 - 🌱 I’m always learning more about JavaScript 
 
 <!---
